@@ -1,0 +1,11 @@
+#+title: Root Dotfiles
+#+author: Matheus de Souza Pessanha
+#+email: matheus_pessanha2001@outlook.com
+
+This repository exist to turn posiible to host my "root" configs
+like =udev_rules=, =blueooth= and =kernel= options! Obvously no sensible information will be hosted here.
+
+If you want to know/install my user dotfiles, follow this link: [[https://github.com/Mdsp9070/dotfiles]]!
+
+So, there isn't any install script here, youneed to link manually all these files:
+1. [[./udev_rules/13-fix-keyboard.rules]] to =/etc/udev/rules.d/=

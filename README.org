@@ -12,3 +12,4 @@ So, there isn't any install script here, youneed to link manually all these file
 2. [[./modprobe/ath9k_htc.conf]] to =/etc/modprobe/=
 3. [[./modprobe/bluetooth-audio.conf]] to =/etc/modprobe/=
 4. [[./bluetooth/main.conf]] to =/etc/bluetooth/=
+5. [[./modprobe/default.conf]] to =/etc/modprobe/=
